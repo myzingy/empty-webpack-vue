@@ -1,4 +1,7 @@
-# my-webpack-simple-demo
+# webpack
+  +vue
+  +vue-element
+  +vue-echart
 
 > A Vue.js project
 
@@ -9,6 +12,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
+npm run ser
 npm run dev
 
 # build for production with minification
